@@ -1,0 +1,47 @@
+body {
+  background-color: #EEE5E9;
+  font-family: 'Cabin', sans-serif;
+
+}
+
+div div {
+margin: auto auto;
+text-align: center;
+}
+
+#header, #footer {
+  border:2px solid #D64933;
+  border-radius: 0px;
+  border-left: none;
+  border-right: none;
+}
+
+table {
+  margin:auto auto;
+}
+
+th, td {
+  text-align: center;
+}
+
+td:hover {
+  border-bottom:2px solid #D64933;
+}
+
+button:hover {
+  border-color: #D64933;
+}
+
+.avatar {
+  width:25px;
+  height:25px;
+}
+
+a {
+  text-decoration: none;
+  color:#7C7C7C;
+}
+
+a:hover {
+  text-decoration: underline;
+}
